@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../bootstrap"
+		},
+		{
+			"path": "../../../../bootstrap demo"
+		},
+		{
+			"path": "../../../../js.start"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "js.start"
+	}
+}
